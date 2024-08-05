@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=170&section=header&text=Eveston+Silva&fontSize=40&Color=00bfbf&animation=twinkling&fontAlingny=35"/>
 
-### Olá, Sou o Eveston Silva ✌🏽
+### Olá, Sou estudante de ADS, Inciando no mundo da programação ✌🏽
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eveston-silva
 )
@@ -15,7 +15,9 @@
 <img align="center" alt"html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div><br/>
+<br/>
+<br/>
 
-#### Estudante de ADS e inicando no mundo da programação
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
